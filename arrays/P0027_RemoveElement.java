@@ -1,4 +1,4 @@
-package arrays;
+// https://leetcode.com/problems/remove-element/
 
 public class P0027_RemoveElement {
     public int removeElement(int[] nums, int val) {

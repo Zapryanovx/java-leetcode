@@ -1,7 +1,5 @@
 // https://leetcode.com/problems/build-array-from-permutation/description/
 
-package arrays;
-
 class P1920_BuildArrayFromPermutation {
     public int[] buildArray(int[] nums) {
         int[] ans = new int[nums.length];

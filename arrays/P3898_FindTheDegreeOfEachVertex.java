@@ -1,7 +1,5 @@
 // https://leetcode.com/problems/find-the-degree-of-each-vertex/
 
-package arrays;
-
 class P3898_FindTheDegreeOfEachVertex {
     public int[] findDegrees(int[][] matrix) {
         int[] degrees = new int[matrix.length];
