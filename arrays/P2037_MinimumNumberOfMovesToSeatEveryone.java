@@ -14,4 +14,3 @@ public class P2037_MinimumNumberOfMovesToSeatEveryone {
         return moves;
     }
 }
-}
