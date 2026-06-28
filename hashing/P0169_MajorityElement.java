@@ -8,7 +8,7 @@ public class P0169_MajorityElement {
         Map<Integer, Integer> m = new HashMap<>();
         int majority = nums[0];
 
-        for (int num : nums) {
+            for (int num : nums) {
             m.put(num, m.getOrDefault(num, 0) + 1);
             if (m.get(num) > m.get(majority)) {
                 majority = num;
